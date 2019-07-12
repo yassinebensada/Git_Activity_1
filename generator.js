@@ -6,4 +6,8 @@ if(name)
 	{
 		alert("Boujour".name);
 	}
+	else
+	{
+		alert("Quoi? ".name." ou ".name_test." ?");
+	}
 }
